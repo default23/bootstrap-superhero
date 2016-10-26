@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-superhero",
+  "authors": [
+    "default23 ^^ <ivanov@taxisaturn.ru>"
+  ],
+  "description": "",
+  "main": "bootstrap-superhero.css",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
