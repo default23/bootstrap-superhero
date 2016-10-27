@@ -4,15 +4,8 @@
     "default23 ^^ <ivanov@taxisaturn.ru>"
   ],
   "version" : "1.0.0",
-  "description": "",
+  "description": "bootstrap superhero css file",
   "main": "bootstrap-superhero.css",
   "license": "MIT",
-  "homepage": "",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "homepage": "https://github.com/default23/bootstrap-superhero"
 }
