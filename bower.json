@@ -3,6 +3,7 @@
   "authors": [
     "default23 ^^ <ivanov@taxisaturn.ru>"
   ],
+  "version" : "1.0.0",
   "description": "",
   "main": "bootstrap-superhero.css",
   "license": "MIT",
