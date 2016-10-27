@@ -7,5 +7,9 @@
   "description": "bootstrap superhero css file",
   "main": "bootstrap-superhero.css",
   "license": "MIT",
-  "homepage": "https://github.com/default23/bootstrap-superhero"
+  "homepage": "https://github.com/default23/bootstrap-superhero",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/default23/bootstrap-superhero.git"
+  },
 }
